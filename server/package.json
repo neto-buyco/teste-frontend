@@ -1,0 +1,17 @@
+{
+  "name": "fakeserver",
+  "version": "1.0.0",
+  "description": "Fake Server for teste",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "BuyCo. Brasil",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  },
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
