@@ -84,7 +84,7 @@ Todos os dados são Fake e a nível de exemplo, a cada vez que você mata e exec
 ###### Para executar o servidor:
 
 ```bash
-cd teste-frontend && npm install && npm start
+cd server && npm install && npm start
 ```
 
 
