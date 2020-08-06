@@ -28,9 +28,9 @@ Seu objetivo é criar uma simples aplicação que deve conter as seguintes pági
 - Sua aplicação deverá ser uma SPA;
 - Deverá ser utilizado algum framework de mercado Angular, React, Vue (Dê preferencia Vue)
 - Deverá ser utilizado alguma biblioteca de controle de estado (NgRx, Redux, Vuex, etc ...)
-- Não devera ser utilizado nenhum biblioteca CSS como Bootstrap ou Materialize, ou suas  implementações para os frameworks, como Angular Material, React Bootstrap, Vuetify, entre outros. (Queremos ver a sua capacidade de lidar com essa parte.)
+- Não devera ser utilizado nenhum biblioteca CSS como Bootstrap ou Materialize, ou suas  implementações para os frameworks, como Angular Material, React Bootstrap, Vuetify, entre outros. (Queremos ver a sua capacidade de lidar com essa parte)
 - Pré-processadores CSS como Saas, Less, Stylus são bem vindos, mas não são obrigatórios;
-- Poderá ser utilizado tanto JavaScript quanto TypeScript o candidato achar melhor.
+- Poderá ser utilizado tanto JavaScript quanto TypeScript o que o candidato achar melhor.
 
 #### O que seria um PLUS:
 
