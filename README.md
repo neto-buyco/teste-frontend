@@ -58,7 +58,7 @@ Essa API foi desenvolvida utilizado a biblioteca **json-server** toda a document
 
 Todos os dados são Fake e a nível de exemplo, a cada vez que você mata e executa novamente o servidor eles mudam.
 
-###### Exemplo para a chamada http://localhost:3000/users/1 .
+###### Exemplo para a chamada GET http://localhost:3000/users/1 .
 
 ```json
 {
