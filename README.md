@@ -88,5 +88,5 @@ cd server && npm install && npm start
 ```
 
 
-[^Qualquer dúvida]: Envie um e-mail para neto@buyco.com.br
+Qualquer dúvida: Envie um e-mail para neto@buyco.com.br
 
