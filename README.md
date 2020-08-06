@@ -87,9 +87,6 @@ Todos os dados são Fake e a nível de exemplo, a cada vez que você mata e exec
 cd teste-frontend && npm install && npm start
 ```
 
-**OBS: Você deve ter o Node instalado em sua maquina para rodar o projeto**
-
-
 
 [^Qualquer dúvida]: Envie um e-mail para neto@buyco.com.br
 
